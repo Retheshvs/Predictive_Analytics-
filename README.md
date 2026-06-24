@@ -72,5 +72,5 @@ scikit-learn
 
 ## Author
 
-**Rethesh** — CSE undergraduate, Sona College of Engineering and Technology  
+**Rethesh V S** — CSE undergraduate, KPR Institute of Engineering and Technology  
 Internship Task 3 — Thiranex Skill Development Program
